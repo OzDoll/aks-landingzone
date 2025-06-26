@@ -2,6 +2,8 @@
 
 These scenarios are **derived from the official Azure AKS Landing Zone Accelerator templates**, providing a streamlined approach to deploying new workloads on Azure Kubernetes Service (AKS). While the original accelerator delivers comprehensive architectural guidance and reference implementations for enterprise-scale AKS environments, these quickstart scenarios focus on **accelerating deployment speed** by including only the essential components required for rapid, production-ready AKS cluster provisioning.
 
+For a quick start refer to the [AKS Secure Baseline](https://github.com/OzDoll/aks-landingzone/tree/main/AKS-Secure-Baseline-PrivateCluster).
+
 ## Purpose
 
 - **Based on proven AKS Landing Zone Accelerator patterns**
